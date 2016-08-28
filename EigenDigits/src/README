@@ -1,0 +1,6 @@
+The project depicts use of PCA to classify hand-written digits. To simply run the project, run the file assignment1.m in Matlab. Alternatively, you can also type the following:
+>>assignment1
+
+The graphs folder contains the graphs displayed in the project report. The Images folder conatins the reconstructed images shown in the report.
+hw1Eigendigits.m -> The function we were asked to implement as part of this assignment.
+assignment1.m -> The file to be run to see results.
