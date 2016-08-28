@@ -1,0 +1,1 @@
+To run the code, simply download the folder source code. Open the folder in Matlab and right click the folder bnn-master. Then, add folders and subfolders of bnn-master to path. Simply run the script script_hw6.m. The function files have a short summary at the beginning which explains their function. All the figures have been put inside the folder called figures.
