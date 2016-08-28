@@ -1,4 +1,4 @@
-The project folder contains five Matlab scripts - 
+The src folder contains five Matlab scripts - 
 1. hw1FindEigenDigits.m - This is the function file from the first homework
 2. scripthw4.m - This script uses image pixels as training features to train SVM
 3. script_hw4_with_pca.m - This script uses image pixels followed by PCA to train SVM
